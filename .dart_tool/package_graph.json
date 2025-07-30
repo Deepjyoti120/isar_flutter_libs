@@ -1,10 +1,10 @@
 {
   "roots": [
-    "isar_flutter_libs"
+    "isar_flutter_libs_fork"
   ],
   "packages": [
     {
-      "name": "isar_flutter_libs",
+      "name": "isar_flutter_libs_fork",
       "version": "3.1.0+1",
       "dependencies": [
         "flutter",

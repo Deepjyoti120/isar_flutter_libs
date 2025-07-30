@@ -30,10 +30,10 @@ vector_math
 2.14
 file:///Users/macbook/.pub-cache/hosted/pub.dev/vector_math-2.1.4/
 file:///Users/macbook/.pub-cache/hosted/pub.dev/vector_math-2.1.4/lib/
-isar_flutter_libs
+isar_flutter_libs_fork
 2.17
-file:///Users/macbook/Software/isar_flutter_libs-3.1.0+1/
-file:///Users/macbook/Software/isar_flutter_libs-3.1.0+1/lib/
+file:///Users/macbook/Projects/plugins/isar_flutter_libs/
+file:///Users/macbook/Projects/plugins/isar_flutter_libs/lib/
 sky_engine
 3.7
 file:///Users/macbook/flutter/bin/cache/pkg/sky_engine/

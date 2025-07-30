@@ -62,7 +62,7 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "isar_flutter_libs",
+      "name": "isar_flutter_libs_fork",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
