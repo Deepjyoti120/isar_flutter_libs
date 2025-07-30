@@ -1,1 +1,1 @@
-library isar_flutter_libs_fork;
+library isar_flutter_libs;
